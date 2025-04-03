@@ -18,6 +18,7 @@ Training Language Agents is an essential yet still emerging technology. This rep
 * [2310] [FireAct: Toward Language Agent Fine-tuning](https://arxiv.org/abs/2310.05915) (Princeton)
 
 ### Reinforment Learning Paradigm
+* [2503] [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/pdf/2503.09516?) (UIUC)
 * [2503] [SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](https://arxiv.org/pdf/2503.15478) (Meta, UC Berkeley)
 * [2502] [Digi-Q: Learning Q-Value Functions for Training Device-Control Agents](https://arxiv.org/pdf/2502.15760) (UC Berkeley, UIUC, Amazon, CMU)
 * [2412] [Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents](https://arxiv.org/pdf/2412.13194) (UC Berkeley, UIUC, Amazon)
