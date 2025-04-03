@@ -21,8 +21,10 @@ Training Language Agents is an essential yet still emerging technology. This rep
 
 ### Reinforment Learning Paradigm
 * [2503] [SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](https://arxiv.org/pdf/2503.15478) (Meta, UC Berkeley)
+* [2502] [Digi-Q: Learning Q-Value Functions for Training Device-Control Agents](https://arxiv.org/pdf/2502.15760) (UC Berkeley, UIUC, Amazon, CMU)
 * [2412] [Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents](https://arxiv.org/pdf/2412.13194) (UC Berkeley, UIUC, Amazon)
 * [2406] [DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning](https://arxiv.org/pdf/2406.11896) (UC Berkeley, UIUC, Google DeepMind)
+* [2402] [ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL](https://arxiv.org/pdf/2402.19446) (UC Berkeley, Google DeepMind)
 
 ## Open-Source Project
 * ![RAGEN Stars](https://img.shields.io/github/stars/RAGEN-AI/RAGEN) [RAGEN](https://github.com/RAGEN-AI/RAGEN) (Training agent)
