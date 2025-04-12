@@ -20,6 +20,9 @@ Training Language Agents is an essential yet still emerging technology. This rep
 * [2310] [FireAct: Toward Language Agent Fine-tuning](https://arxiv.org/abs/2310.05915) (Princeton)
 
 ### Reinforment Learning Paradigm
+* [2504] [Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use](https://arxiv.org/pdf/2504.04736) (Stanford University, Google DeepMind)
+* [2503] [ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning](https://arxiv.org/pdf/2503.19470) (Baichuan)
+* [2503] [R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2503.05592) (RUC)
 - [2503] [UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning] (Vivo Lab, CUHK)
 - [2503] [Thinking Longer, Not Larger: Enhancing Software Engineering Agents via Scaling Test-Time Compute] (Tongyi Lab) 
 * [2503] [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/pdf/2503.09516?) (UIUC)
