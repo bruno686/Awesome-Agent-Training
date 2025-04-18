@@ -9,6 +9,9 @@ The next key step is to enhance Language Agents' ability to handle diverse tasks
 
 Training Language Agents is an essential yet still emerging technology. This repository is dedicated to pushing the boundaries and exploring new possibilities in this field.
 
+[The Second Half](https://ysymyth.github.io/The-Second-Half/)
+
+
 <!-- * [] []() () 
 * [] []() () () -->
 
