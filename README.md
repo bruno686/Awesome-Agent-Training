@@ -24,6 +24,7 @@ Training Language Agents is an essential yet still emerging technology. This rep
 
 ### Reinforment Learning Paradigm
 * [2504] [Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use](https://arxiv.org/pdf/2504.04736) (Stanford University, Google DeepMind)
+* [2504] [DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments](https://arxiv.org/pdf/2504.03160) (SJTU)
 * [2503] [ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning](https://arxiv.org/pdf/2503.19470) (Baichuan)
 * [2503] [R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2503.05592) (RUC)
 * [2503] [UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning](https://arxiv.org/pdf/2503.21620) (Vivo Lab, CUHK)
