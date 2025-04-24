@@ -23,8 +23,13 @@ Training Language Agents is an essential yet still emerging technology. This rep
 * [2310] [FireAct: Toward Language Agent Fine-tuning](https://arxiv.org/abs/2310.05915) (Princeton)
 
 ### Reinforment Learning Paradigm
+* [2504] [LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities](https://arxiv.org/pdf/2504.16078) (Google DeepMind)
+* [2504] [Meta-Thinking in LLMs via Multi-Agent Reinforcement Learning: A Survey](https://arxiv.org/pdf/2504.14520)
+* [2504] [OTC: Optimal Tool Calls via Reinforcement Learning](https://arxiv.org/pdf/2504.14870) (CUHK, UIUC)
+* [2504] [ReTool: Reinforcement Learning for Strategic Tool Use in LLMs](https://arxiv.org/pdf/2504.11536) (ByteDance)
 * [2504] [Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use](https://arxiv.org/pdf/2504.04736) (Stanford University, Google DeepMind)
 * [2504] [DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments](https://arxiv.org/pdf/2504.03160) (SJTU)
+* [2503] [Rec-R1: Bridging Generative Large Language Models and User-Centric Recommendation Systems via Reinforcement Learning](https://arxiv.org/pdf/2503.24289) (UIUC, Amazon)
 * [2503] [ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning](https://arxiv.org/pdf/2503.19470) (Baichuan)
 * [2503] [R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2503.05592) (RUC)
 * [2503] [UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning](https://arxiv.org/pdf/2503.21620) (Vivo Lab, CUHK)
