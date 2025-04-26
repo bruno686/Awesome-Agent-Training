@@ -26,8 +26,8 @@ Training Language Agents is an essential yet still emerging technology. This rep
 * [2502] [STeCa: Step-level Trajectory Calibration for LLM Agent Learning](https://arxiv.org/pdf/2502.14276) (PolyU)
 * [2501] ⭐️ [Agent-R: Training Language Model Agents to Reflect via Iterative Self-Training](https://arxiv.org/pdf/2501.11425) (ByteDance) [behavior cloning is not robust for the real world. learning from mistake (self-critique) is important, using MCTS create datasets. self-reflaction]
 * [2408] [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://arxiv.org/pdf/2408.07199) (ICLR 25-R | MultiOn, Stanford) （a combination of DPO, MCTS, and process supervision for web navigation task）
-* [2406] [Watch Every Step! LLM Agent Learning via Iterative Step-Level Process Refinement](https://arxiv.org/pdf/2406.11176)
-* [2403] [Trial and Error: Exploration-Based Trajectory Optimization for LLM Agents](https://arxiv.org/pdf/2403.02502)
+* [2406] [Watch Every Step! LLM Agent Learning via Iterative Step-Level Process Refinement](https://arxiv.org/pdf/2406.11176) (EMNLP 24 | PKU)
+* [2403] [Trial and Error: Exploration-Based Trajectory Optimization for LLM Agents](https://arxiv.org/pdf/2403.02502)  (ACL 24 | PKU)
 * [2401] ⭐️ [Grounding large language models in interactive environments with online reinforcement learning](https://proceedings.mlr.press/v202/carta23a/carta23a.pdf) (ICML 23 | Huggingface)
 * [2401] ⭐️ [True Knowledge Comes from Practice: Aligning LLMs with Embodied Environments via Reinforcement Learning](https://arxiv.org/abs/2401.14151) (ICLR 24 | NTU)
 
@@ -56,14 +56,15 @@ complete the task in the way we want it to be done. propose new ColBench. **Next
 * [2412] [Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents](https://arxiv.org/pdf/2412.13194) (ICLR 25-r | UC Berkeley, UIUC, Amazon) [The questions for model training are automatically generated, this distinguishes them from the questions that came with the previous dataset. The generated problems are used in reinforcement learning to produce results, and then a model is used to evaluate the results. I feel that generalization would be stronger.]
 * [2405] [AGILE: A Novel Reinforcement Learning Framework of LLM Agents](https://arxiv.org/pdf/2405.14751v2) (NeurIPS 24 | ByteDance) (The same type of work as ReAct, WebGPT, presents a dataset.)
 
+#### Tool Call 
+* [2504] [OTC: Optimal Tool Calls via Reinforcement Learning](https://arxiv.org/pdf/2504.14870) (CUHK)
+* [2504] ⭐️ [τ -bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://arxiv.org/pdf/2406.12045) (ICLR 25 | Shunyu Yao) []
 
-### Other Topics (Not related to Agent)
+#### Other Topics (Not related to Agent)
 * [2503] [R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2503.05592) (RUC) [RL + Search]
 * [2503] [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/pdf/2503.09516?) (UIUC) [RL + Search]
 * [2503] [ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning](https://arxiv.org/pdf/2503.19470) (Baichuan) [RL + Search]
 * [2504] [Meta-Thinking in LLMs via Multi-Agent Reinforcement Learning: A Survey](https://arxiv.org/pdf/2504.14520) [Meta Thinking]
-* [2504] [OTC: Optimal Tool Calls via Reinforcement Learning](https://arxiv.org/pdf/2504.14870) (CUHK, UIUC)
-
 
 ## Open-Source Project
 * ![RAGEN Stars](https://img.shields.io/github/stars/RAGEN-AI/RAGEN) [RAGEN](https://github.com/RAGEN-AI/RAGEN) (Training agent)
