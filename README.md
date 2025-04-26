@@ -18,6 +18,8 @@ Training Language Agents is an essential yet still emerging technology. This rep
 ## Papers
 
 ### Fine-tuning Paradigm
+* [2503] [PLAN-AND-ACT: Improving Planning of Agents for Long-Horizon Tasks](https://arxiv.org/pdf/2503.09572) (UCB)
+* [2503] [MPO:BoostingLLMAgentswithMetaPlanOptimization](https://arxiv.org/pdf/2503.02682) (PKU)
 * [2503] [ATLaS: Agent Tuning via Learning Critical Steps](https://arxiv.org/pdf/2503.02197) (UTS, UMD)
 * [2501] [Agent-R: Training Language Model Agents to Reflect via Iterative Self-Training](https://arxiv.org/pdf/2501.11425) (ByteDance)
 * [2310] [FireAct: Toward Language Agent Fine-tuning](https://arxiv.org/abs/2310.05915) (Princeton)
