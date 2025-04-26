@@ -47,7 +47,6 @@ complete the task in the way we want it to be done. propose new ColBench. **Next
 
 ### To Be Organized
 * [2504] [LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities](https://arxiv.org/pdf/2504.16078) (DeepMind)
-* [2504] [Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use](https://arxiv.org/pdf/2504.04736) (Stanford)
 * [2503] [PLAN-AND-ACT: Improving Planning of Agents for Long-Horizon Tasks](https://arxiv.org/pdf/2503.09572) (UC Berkeley) 
 * [2503] [MPO: Boosting LLM Agents with Meta Plan Optimization](https://arxiv.org/pdf/2503.02682) (PKU) [similar to PAE, meta]
 * [2502] [Reinforcement Learning for Long-Horizon Interactive LLM Agents](https://arxiv.org/pdf/2502.01600) (Apple) [propose AppWorld task other than WebShop]
@@ -57,6 +56,7 @@ complete the task in the way we want it to be done. propose new ColBench. **Next
 * [2405] [AGILE: A Novel Reinforcement Learning Framework of LLM Agents](https://arxiv.org/pdf/2405.14751v2) (NeurIPS 24 | ByteDance) (The same type of work as ReAct, WebGPT, presents a dataset.)
 
 #### Tool Call 
+* [2504] [Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use](https://arxiv.org/pdf/2504.04736) (Stanford)
 * [2504] [OTC: Optimal Tool Calls via Reinforcement Learning](https://arxiv.org/pdf/2504.14870) (CUHK)
 * [2504] ⭐️ [τ -bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://arxiv.org/pdf/2406.12045) (ICLR 25 | Shunyu Yao) []
 
