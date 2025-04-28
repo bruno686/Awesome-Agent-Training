@@ -38,9 +38,11 @@ trajectories to create contrastive trajectory pairs. DPO]
 ### Multi-turn RL for Agent
 * [0425] ⭐️ [RAGEN: Understanding Self-Evolution in LLM A gents via
 Multi-Turn Reinforcement Learning](https://github.com/RAGEN-AI/RAGEN/blob/main/RAGEN.pdf) (NWU) [The success behind o4 maybe multi-turn RL]
+* [2504] [Beyond Single-Turn: A Survey on Multi-Turn Interactions with Large Language Models](https://arxiv.org/pdf/2504.04717) [supplementary material]
 * [2503] ⭐️ [SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](https://arxiv.org/pdf/2503.15478) (Meta, UC Berkeley) [we want the agents not only complete a task, but also complete the task in the way we want it to be done. propose new ColBench.]
+* [2502] [Multi-Turn Code Generation Through Single-Step Rewards](https://arxiv.org/pdf/2502.20380) [supplementary material]
 * [2502] [EPO: Explicit Policy Optimization for Strategic Reasoning in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2502.12486) (UCAS) [ArCHer plus]
-* [2402] [ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL](https://arxiv.org/pdf/2402.19446) (ICML 24 | UC Berkeley) [Optimize the end goal with multi-turn RL, not for the short-term goal.]
+* [2402] [ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL](https://arxiv.org/pdf/2402.19446) (ICML 24 | UC Berkeley) [Optimize the end goal with multi-turn RL, not for the short-term goal. frames multi-step tasks via a two-level hierarchical MDP, where the higher level MDP considers completions as actions and the lower level MDP considers tokens as actions by ucode]
 
 ### Alignment with the Real World
 * [2504] ⭐️ [LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities](https://arxiv.org/pdf/2504.16078) (DeepMind) [failure modes in decision-making: greediness, frequency bias, and the knowing-doing gap. Mitigation of these shortcomings by fine-tuning via Reinforcement Learning (RL) on self-generated CoT rationales.]
