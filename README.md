@@ -67,7 +67,14 @@ Multi-Turn Reinforcement Learning](https://github.com/RAGEN-AI/RAGEN/blob/main/R
 * [2502] [Reinforcement Learning for Long-Horizon Interactive LLM Agents](https://arxiv.org/pdf/2502.01600) (Apple) [propose AppWorld task other than WebShop]
 * Comment: Generating data seems to be used as a strategy.
 
-### To be classified
+### Supplementary Papers
+* [2305] [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290)
+* [2203] [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155)
+* [2009] [Learning to summarize from human feedback](https://proceedings.neurips.cc/paper_files/paper/2020/file/1f89885d556929e98d3ef9b86448f951-Paper.pdf)
+* [1706] [Deep Reinforcement Learning from Human Preferences](https://proceedings.neurips.cc/paper_files/paper/2017/file/d5e2c0adad503c91f91df240d0cd4e49-Paper.pdf)
+
+
+### To be Classified
 
 ----------------
 
