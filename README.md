@@ -42,6 +42,7 @@ Multi-Turn Reinforcement Learning](https://github.com/RAGEN-AI/RAGEN/blob/main/R
 * [2503] ⭐️ [SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](https://arxiv.org/pdf/2503.15478) (Meta, UC Berkeley) [we want the agents not only complete a task, but also complete the task in the way we want it to be done. propose new ColBench.]
 * [2502] [Multi-Turn Code Generation Through Single-Step Rewards](https://arxiv.org/pdf/2502.20380) [supplementary material]
 * [2502] [EPO: Explicit Policy Optimization for Strategic Reasoning in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2502.12486) (UCAS) [ArCHer plus]
+* [2409] [Building Math Agents with Multi-Turn Iterative Preference Learning](https://arxiv.org/pdf/2409.02392) (ICLR 25 | UIUC) []
 * [2402] [ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL](https://arxiv.org/pdf/2402.19446) (ICML 24 | UC Berkeley) [Optimize the end goal with multi-turn RL, not for the short-term goal. frames multi-step tasks via a two-level hierarchical MDP, where the higher level MDP considers completions as actions and the lower level MDP considers tokens as actions by ucode]
 
 ### Alignment with the Real World
