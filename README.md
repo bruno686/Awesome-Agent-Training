@@ -75,6 +75,9 @@ Multi-Turn Reinforcement Learning](https://github.com/RAGEN-AI/RAGEN/blob/main/R
 * [2009] [Learning to summarize from human feedback](https://proceedings.neurips.cc/paper_files/paper/2020/file/1f89885d556929e98d3ef9b86448f951-Paper.pdf)
 * [1706] [Deep Reinforcement Learning from Human Preferences](https://proceedings.neurips.cc/paper_files/paper/2017/file/d5e2c0adad503c91f91df240d0cd4e49-Paper.pdf)
 
+**Difference between Multi-turn RL with Single-turn RL** \
+**Single-turn RL**: Like scratching a lottery ticket. See the ticket, scratch! See money. End of round. Corresponding to LLM, user enters prompt, gets answer, quality of answer. End. \
+**Multi-turn RL**: It's like playing Super Mario, constantly seeing new screens, performing new actions, and getting rewards (deaths or gold coins). Corresponding to LLM, for each new answer, the input is not only the current prompt, but also the previous answer, the previous prompt, and the previous reward (i.e., the previous trajectories).
 
 ### To be Classified
 
