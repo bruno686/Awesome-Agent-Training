@@ -64,6 +64,7 @@ Multi-Turn Reinforcement Learning](https://github.com/RAGEN-AI/RAGEN/blob/main/R
 * Comment: Generating data seems to be used as a strategy.
 
 ### 2.4 Alignment with the Real World (Considering Multi-Agent Collaborate)
+* [2503] [M3HF: Multi-agent Reinforcement Learning from Multi-phase Human Feedback of Mixed Quality](https://arxiv.org/pdf/2503.02077) (KCL)
 * [2502] [Efficient Multi-Agent System Training with Data Influence-Oriented Tree Search](https://arxiv.org/pdf/2502.00955) (USTC) []
 * [2410] [OPTIMA: Optimizing Effectiveness and Efficiency for LLM-Based Multi-Agent System](https://arxiv.org/pdf/2410.08115) (ICLR 25-r | Tsinghua) []
 * [2406] [Autonomous Agents for Collaborative Task under Information Asymmetry](https://arxiv.org/pdf/2406.14928) (NeurIPS 24 | Tsinghua) [Asymmetric information and collaborative, no-training SWEET-RL basis]
