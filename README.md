@@ -63,20 +63,30 @@ Multi-Turn Reinforcement Learning](https://github.com/RAGEN-AI/RAGEN/blob/main/R
 * [2502] [Reinforcement Learning for Long-Horizon Interactive LLM Agents](https://arxiv.org/pdf/2502.01600) (Apple) [propose AppWorld task other than WebShop]
 * Comment: Generating data seems to be used as a strategy.
 
-### Agent Framework Design
+### 2.4 Alignment with the Real World (Considering Multi-Agent Collaborate)
+* [2502] [Efficient Multi-Agent System Training with Data Influence-Oriented Tree Search](https://arxiv.org/pdf/2502.00955) (USTC) []
+* [2410] [OPTIMA: Optimizing Effectiveness and Efficiency for LLM-Based Multi-Agent System](https://arxiv.org/pdf/2410.08115) (ICLR 25-r | Tsinghua) []
+* [2406] [Autonomous Agents for Collaborative Task under Information Asymmetry](https://arxiv.org/pdf/2406.14928) (NeurIPS 24 | Tsinghua) [Asymmetric information and collaborative, no-training SWEET-RL basis]
+* Comment: Generating data seems to be used as a strategy.
+
+### Supplementary Classical Papers
+* [2406] [ReST-MCTS*: LLM Self-Training via Process Reward Guided Tree Search](https://openreview.net/pdf?id=8rcFOqEud5) (Tsinghua 131)
+* [2312] [ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent](https://arxiv.org/abs/2312.10003) (Deepmind 46)
+* [2308] [Reinforced Self-Training (ReST) for Language Modeling](https://arxiv.org/pdf/2308.08998) (Deepmind 265) (SWEET-RL similar to this)
+* [2305] [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290) (Stanford 3295)
+* [2203] [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155) (OpenAI 14011)
+* [2203] [STaR: Bootstrapping Reasoning With Reasoning](https://proceedings.neurips.cc/paper_files/paper/2022/file/639a9a172c044fbb64175b5fad42e9a5-Paper-Conference.pdf) (Stanford 704)
+* [2009] [Learning to summarize from human feedback](https://proceedings.neurips.cc/paper_files/paper/2020/file/1f89885d556929e98d3ef9b86448f951-Paper.pdf) (OpenAI 2187)
+* [1706] [Deep Reinforcement Learning from Human Preferences](https://proceedings.neurips.cc/paper_files/paper/2017/file/d5e2c0adad503c91f91df240d0cd4e49-Paper.pdf) (OpenAI 3940)
+
+### 0 Agent Framework Design
 * [2405] [AGILE: A Novel Reinforcement Learning Framework of LLM Agents](https://arxiv.org/pdf/2405.14751v2) (NeurIPS 24 | ByteDance) [The same type of work as ReAct, WebGPT, presents a dataset.]
 * [2303] [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/pdf/2303.11366) (NeurIPS 23 | Shunyu Yao, 1420)
 * [2210] [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/pdf/2210.03629) (ICLR 23 | Shunyu Yao, 2731) [[code](https://github.com/ysymyth/ReAct)]
 * [2112] [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/pdf/2112.09332) (OpenAI, 1275)
 <img src="images/agent_framework.jpg" alt="封面图" width="90%"/>
 
-### Supplementary Papers
-* [2406] [ReST-MCTS∗: LLM Self-Training via Process Reward Guided Tree Search](https://openreview.net/pdf?id=8rcFOqEud5)
-* [2305] [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290)
-* [2203] [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155)
-* [2009] [Learning to summarize from human feedback](https://proceedings.neurips.cc/paper_files/paper/2020/file/1f89885d556929e98d3ef9b86448f951-Paper.pdf)
-* [1706] [Deep Reinforcement Learning from Human Preferences](https://proceedings.neurips.cc/paper_files/paper/2017/file/d5e2c0adad503c91f91df240d0cd4e49-Paper.pdf)
-
+### Basic Understanding
 **Difference between Multi-turn RL with Single-turn RL** \
 **Single-turn RL**: Like scratching a lottery ticket. See the ticket, scratch! See money. End of round. Corresponding to LLM, user enters prompt, gets answer, quality of answer. End. \
 **Multi-turn RL**: It's like playing Super Mario, constantly seeing new screens, performing new actions, and getting rewards (deaths or gold coins). Corresponding to LLM, for each new answer, the input is not only the current prompt, but also the previous answer, the previous prompt, and the previous reward (i.e., the previous trajectories).
