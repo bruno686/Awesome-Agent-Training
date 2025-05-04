@@ -71,6 +71,7 @@ Multi-Turn Reinforcement Learning](https://github.com/RAGEN-AI/RAGEN/blob/main/R
 
 ### Supplementary Classical Papers
 * [2406] [ReST-MCTS*: LLM Self-Training via Process Reward Guided Tree Search](https://openreview.net/pdf?id=8rcFOqEud5) (Tsinghua 131)
+* [2401] [Self-Rewarding Language Models](https://arxiv.org/pdf/2401.10020) (Meta 550)
 * [2312] [ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent](https://arxiv.org/abs/2312.10003) (Deepmind 46)
 * [2308] [Reinforced Self-Training (ReST) for Language Modeling](https://arxiv.org/pdf/2308.08998) (Deepmind 265) (SWEET-RL similar to this)
 * [2305] [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290) (Stanford 3295)
