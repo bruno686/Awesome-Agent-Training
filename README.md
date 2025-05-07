@@ -70,6 +70,9 @@ Multi-Turn Reinforcement Learning](https://github.com/RAGEN-AI/RAGEN/blob/main/R
 * [2406] [Autonomous Agents for Collaborative Task under Information Asymmetry](https://arxiv.org/pdf/2406.14928) (NeurIPS 24 | Tsinghua) [Asymmetric information and collaborative, no-training SWEET-RL basis]
 * Comment: Generating data seems to be used as a strategy.
 
+### 3.1 Agent Trajectories Construction
+* [2504] [ANDROIDGEN: Building an Android Language Agent under Data Scarcity](https://arxiv.org/pdf/2504.19298)
+
 ### Supplementary Classical Papers
 * [2406] [ReST-MCTS*: LLM Self-Training via Process Reward Guided Tree Search](https://openreview.net/pdf?id=8rcFOqEud5) (Tsinghua 131)
 * [2401] [Self-Rewarding Language Models](https://arxiv.org/pdf/2401.10020) (Meta 550)
