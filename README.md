@@ -48,6 +48,7 @@ Multi-Turn Reinforcement Learning](https://github.com/RAGEN-AI/RAGEN/blob/main/R
 * [2402] [ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL](https://arxiv.org/pdf/2402.19446) (ICML 24 | UC Berkeley) [Optimize the end goal with multi-turn RL, not for the short-term goal. frames multi-step tasks via a two-level hierarchical MDP, where the higher level MDP considers completions as actions and the lower level MDP considers tokens as actions by ucode]
 
 ### 2.2 Alignment with the Real World (Considering Unexpected Cases)
+* [2505] [Towards Efficient Online Tuning of VLM Agents via Counterfactual Soft Reinforcement Learning](https://arxiv.org/pdf/2505.03792) (considering causal weight)
 * [2504] ⭐️ [LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities](https://arxiv.org/pdf/2504.16078) (DeepMind) [failure modes in decision-making: greediness, frequency bias, and the knowing-doing gap. Mitigation of these shortcomings by fine-tuning via Reinforcement Learning (RL) on self-generated CoT rationales.]
 * [2503] [UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning](https://arxiv.org/pdf/2503.21620) (VIVO Lab, CUHK) [Explore GUI Agent with GRPO, inspired by Deepseek-r1]
 * [2502] [Digi-Q: Learning Q-Value Functions for Training Device-Control Agents](https://arxiv.org/pdf/2502.15760) (ICLR 25 | UC Berkeley) [DigiRL plus, Add VLM Q function]
