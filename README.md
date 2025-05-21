@@ -98,7 +98,7 @@ Multi-Turn Reinforcement Learning](https://github.com/RAGEN-AI/RAGEN/blob/main/R
 **Multi-turn RL**: It's like playing Super Mario, constantly seeing new screens, performing new actions, and getting rewards (deaths or gold coins). Corresponding to LLM, for each new answer, the input is not only the current prompt, but also the previous answer, the previous prompt, and the previous reward (i.e., the previous trajectories).
 
 ### To be Classified
-
+* [2504] [Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation](https://arxiv.org/pdf/2504.16073?#page=14.11) [Behavioral cloning is for LLM to learn the correct trajectory during the training phase. The method is to directly correct the trajectory of LLM during the “test” by training a process-reward model.]
 ----------------
 
 #### Tool Call 
