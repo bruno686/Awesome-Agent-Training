@@ -65,6 +65,8 @@ Multi-Turn Reinforcement Learning](https://github.com/RAGEN-AI/RAGEN/blob/main/R
 * Comment: Generating data seems to be used as a strategy.
 
 ### 2.4 Alignment with the Real World (Considering Multi-Agent Collaborate)
+* [2505] [MARTI: A Framework for Multi-Agent LLM Systems - Reinforced Training and Inference](https://github.com/TsinghuaC3I/MARTI) (Tsinghua)
+* [2504] [MARFT: Multi-Agent Reinforcement Fine-Tuning](https://arxiv.org/pdf/2504.16129) (SJTU)
 * [2503] [M3HF: Multi-agent Reinforcement Learning from Multi-phase Human Feedback of Mixed Quality](https://arxiv.org/pdf/2503.02077) (KCL)
 * [2502] [Efficient Multi-Agent System Training with Data Influence-Oriented Tree Search](https://arxiv.org/pdf/2502.00955) (USTC) []
 * [2410] [OPTIMA: Optimizing Effectiveness and Efficiency for LLM-Based Multi-Agent System](https://arxiv.org/pdf/2410.08115) (ICLR 25-r | Tsinghua) []
@@ -98,7 +100,7 @@ Multi-Turn Reinforcement Learning](https://github.com/RAGEN-AI/RAGEN/blob/main/R
 **Multi-turn RL**: It's like playing Super Mario, constantly seeing new screens, performing new actions, and getting rewards (deaths or gold coins). Corresponding to LLM, for each new answer, the input is not only the current prompt, but also the previous answer, the previous prompt, and the previous reward (i.e., the previous trajectories).
 
 ### To be Classified
-* [2504] [Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation](https://arxiv.org/pdf/2504.16073?#page=14.11) [Behavioral cloning is for LLM to learn the correct trajectory during the training phase. The method is to directly correct the trajectory of LLM during the “test” by training a process-reward model.]
+* [2504] [Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation](https://arxiv.org/pdf/2504.16073?#page=14.11) [Behavioral cloning is for LLM to learn the correct trajectory during the training phase. The method is to directly correct the trajectory of LLM during the “test” by training a process-reward model. But the reality is complex and changing, doesn't the reward model still have to keep learning?]
 ----------------
 
 #### Tool Call 
