@@ -34,9 +34,11 @@ Training Language Agents is an essential yet still emerging technology. This rep
 * [2408] [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://arxiv.org/pdf/2408.07199) (ICLR 25-R | MultiOn, Stanford) （a combination of DPO, MCTS, and process supervision for web navigation task）
 * [2403] [Trial and Error: Exploration-Based Trajectory Optimization for LLM Agents](https://arxiv.org/pdf/2403.02502)  (ACL 24 | PKU) [allows agents to learn from their exploration failures. Gathering failure
 trajectories to create contrastive trajectory pairs. DPO]
+* [2409] [E2CL: Exploration-based Error Correction Learning for Embodied Agents](https://aclanthology.org/2024.findings-emnlp.448/) (EMNLP2024) [Empowering embodied agents with self-correction through exploration-induced errors and environmental feedback, enabling adaptive alignment and improved task performance.]
 * Comment: Learning from ideally good existing behaviors, points of challenge, behaviors not always right, picked out or DPO utilized.
 
 ### 2.1 Alignment with the Real World (Considering Previous Trajectories, Multi-turn)
+* [2505] [SPA-RL: Reinforcing LLM Agents via Stepwise Progress Attribution](https://arxiv.org/abs/2505.20732) [Advanced reward redistribution for multi-turn RL agents, transforming delayed rewards into stepwise progress signals]
 * [0425] ⭐️ [RAGEN: Understanding Self-Evolution in LLM A gents via
 Multi-Turn Reinforcement Learning](https://github.com/RAGEN-AI/RAGEN/blob/main/RAGEN.pdf) (NWU) [The success behind o4 maybe multi-turn RL]
 * [2504] [Beyond Single-Turn: A Survey on Multi-Turn Interactions with Large Language Models](https://arxiv.org/pdf/2504.04717) [supplementary material]
