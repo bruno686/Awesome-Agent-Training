@@ -31,10 +31,10 @@ Training Language Agents is an essential yet still emerging technology. This rep
 
 ### 1.2 Behavior Cloning (Learning from Both Good and Bad Behaviors, Utilizing Mistakes Selective/Comparative)
 * [2501] ⭐️ [Agent-R: Training Language Model Agents to Reflect via Iterative Self-Training](https://arxiv.org/pdf/2501.11425) (ByteDance) [behavior cloning is not robust for the real world. learning from mistake (self-critique) is important, using MCTS create datasets. self-reflaction]
+* [2409] [E2CL: Exploration-based Error Correction Learning for Embodied Agents](https://aclanthology.org/2024.findings-emnlp.448/) (EMNLP2024) [Empowering embodied agents with self-correction through exploration-induced errors and environmental feedback, enabling adaptive alignment and improved task performance.]
 * [2408] [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://arxiv.org/pdf/2408.07199) (ICLR 25-R | MultiOn, Stanford) （a combination of DPO, MCTS, and process supervision for web navigation task）
 * [2403] [Trial and Error: Exploration-Based Trajectory Optimization for LLM Agents](https://arxiv.org/pdf/2403.02502)  (ACL 24 | PKU) [allows agents to learn from their exploration failures. Gathering failure
 trajectories to create contrastive trajectory pairs. DPO]
-* [2409] [E2CL: Exploration-based Error Correction Learning for Embodied Agents](https://aclanthology.org/2024.findings-emnlp.448/) (EMNLP2024) [Empowering embodied agents with self-correction through exploration-induced errors and environmental feedback, enabling adaptive alignment and improved task performance.]
 * Comment: Learning from ideally good existing behaviors, points of challenge, behaviors not always right, picked out or DPO utilized.
 
 ### 2.1 Alignment with the Real World (Considering Previous Trajectories, Multi-turn)
