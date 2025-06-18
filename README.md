@@ -38,6 +38,8 @@ trajectories to create contrastive trajectory pairs. DPO]
 * Comment: Learning from ideally good existing behaviors, points of challenge, behaviors not always right, picked out or DPO utilized.
 
 ### 2.1 Alignment with the Real World (Considering Previous Trajectories, Multi-turn)
+* [2506] [Agent-RLVR: Training Software Engineering Agents via Guidance and Environment Rewards](https://arxiv.org/pdf/2506.11425) (Scale AI) [training agents in the complex software engineering domain]
+* [2505] ⭐️ [Group-in-Group Policy Optimization for LLM Agent Training](https://arxiv.org/pdf/2505.10978) (NTU) [preserving the critic-free, low-memory, and stable convergence properties of GRPO while delivering much better performance for agent rl]
 * [2505] [SPA-RL: Reinforcing LLM Agents via Stepwise Progress Attribution](https://arxiv.org/abs/2505.20732) [Advanced reward redistribution for multi-turn RL agents, transforming delayed rewards into stepwise progress signals]
 * [0425] ⭐️ [RAGEN: Understanding Self-Evolution in LLM A gents via
 Multi-Turn Reinforcement Learning](https://github.com/RAGEN-AI/RAGEN/blob/main/RAGEN.pdf) (NWU) [The success behind o4 maybe multi-turn RL]
@@ -45,6 +47,7 @@ Multi-Turn Reinforcement Learning](https://github.com/RAGEN-AI/RAGEN/blob/main/R
 * [2503] ⭐️ [SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](https://arxiv.org/pdf/2503.15478) (Meta, UC Berkeley) [we want the agents not only complete a task, but also complete the task in the way we want it to be done. propose new ColBench.]
 * [2502] [Multi-Turn Code Generation Through Single-Step Rewards](https://arxiv.org/pdf/2502.20380) [supplementary material]
 * [2502] [EPO: Explicit Policy Optimization for Strategic Reasoning in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2502.12486) (UCAS) [ArCHer plus]
+* [2412] [Training Software Engineering Agents and Verifiers with SWE-Gym](https://arxiv.org/pdf/2412.21139) (UC Berkeley) [first environment for training software engineering agents]
 * [2409] [Building Math Agents with Multi-Turn Iterative Preference Learning](https://arxiv.org/pdf/2409.02392) (ICLR 25 | UIUC) []
 * [2406] [Direct Multi-Turn Preference Optimization for Language Agents](https://arxiv.org/pdf/2406.14868) [multi-turn dpo, considering previous trajectories and desiging a weighted strategy]
 * [2402] [ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL](https://arxiv.org/pdf/2402.19446) (ICML 24 | UC Berkeley) [Optimize the end goal with multi-turn RL, not for the short-term goal. frames multi-step tasks via a two-level hierarchical MDP, where the higher level MDP considers completions as actions and the lower level MDP considers tokens as actions by ucode]
@@ -125,6 +128,7 @@ Multi-Turn Reinforcement Learning](https://github.com/RAGEN-AI/RAGEN/blob/main/R
 * [2504] [Meta-Thinking in LLMs via Multi-Agent Reinforcement Learning: A Survey](https://arxiv.org/pdf/2504.14520) [Meta Thinking]
 
 ## Open-Source Project
+* ![verl-agent Stars](https://img.shields.io/github/stars/langfengQ/verl-agent) [verl-agent](https://github.com/langfengQ/verl-agent) (Training long-horizon multi-turn agent with RL)
 * ![RAGEN Stars](https://img.shields.io/github/stars/RAGEN-AI/RAGEN) [RAGEN](https://github.com/RAGEN-AI/RAGEN) (Training agent)
 * ![RAGEN Stars](https://img.shields.io/github/stars/PeterGriffinJin/Search-R1) [Search-R1](https://github.com/PeterGriffinJin/Search-R1) (Train your LLMs to reason and call a search engine with reinforcement learning)
 * ![OpenManus-RL Stars](https://img.shields.io/github/stars/OpenManus/OpenManus-RL) [OpenManus-RL](https://github.com/OpenManus/OpenManus-RL) (A live stream development of RL tunning for LLM agents)
