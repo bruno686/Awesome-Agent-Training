@@ -79,6 +79,7 @@ Multi-Turn Reinforcement Learning](https://github.com/RAGEN-AI/RAGEN/blob/main/R
 * [2504] [ANDROIDGEN: Building an Android Language Agent under Data Scarcity](https://arxiv.org/pdf/2504.19298)
 
 ### 4 Backtracking
+* [2506] [Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction](https://arxiv.org/pdf/2506.07976) (CMU, UIUC)
 * [2505] [WEBCOT: Enhancing Web Agent Reasoning by Reconstructing Chain-of-Thought in Reflection, Branching, and Rollback](https://arxiv.org/pdf/2505.20013) (CityU, Tencent) ()
 * [2505] [BacktrackAgent: Enhancing GUI Agent with Error Detection and Backtracking Mechanism](https://arxiv.org/pdf/2505.20660) (Xiaomi) 
 * [2504] [Enhancing Web Agents with Explicit Rollback Mechanisms](https://arxiv.org/pdf/2504.11788) (Tencent) 
