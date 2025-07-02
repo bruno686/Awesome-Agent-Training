@@ -38,6 +38,8 @@ trajectories to create contrastive trajectory pairs. DPO]
 * Comment: Learning from ideally good existing behaviors, points of challenge, behaviors not always right, picked out or DPO utilized.
 
 ### 2.1 Alignment with the Real World (Considering Previous Trajectories, Multi-turn)
+* [2506] [PAG: Multi-Turn Reinforced LLM Self-Correction with Policy as Generative Verifier](https://arxiv.org/pdf/2506.10406?) 
+* [2505] [Group-in-Group Policy Optimization for LLM Agent Training](https://arxiv.org/pdf/2505.10978?)
 * [2505] [SPA-RL: Reinforcing LLM Agents via Stepwise Progress Attribution](https://arxiv.org/abs/2505.20732) [Advanced reward redistribution for multi-turn RL agents, transforming delayed rewards into stepwise progress signals]
 * [0425] ⭐️ [RAGEN: Understanding Self-Evolution in LLM A gents via
 Multi-Turn Reinforcement Learning](https://github.com/RAGEN-AI/RAGEN/blob/main/RAGEN.pdf) (NWU) [The success behind o4 maybe multi-turn RL]
