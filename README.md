@@ -63,6 +63,8 @@ Multi-Turn Reinforcement Learning](https://github.com/RAGEN-AI/RAGEN/blob/main/R
 * Comment: WebRL and DigiRL can be unstable and highly sensitive to hyperparameters and reward design commented by PLAN-AND-ACT
 
 ### 2.3 Alignment with the Real World (Considering Long-Horizon Task)
+* [2507] [MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](https://arxiv.org/pdf/2507.02259) [GIGPO plus]
+* [2505] [Group-in-Group Policy Optimization for LLM Agent Training](https://arxiv.org/pdf/2505.10978) [Adding sliding windows to StarPO to consider long-term tasks]
 * [2503] [PLAN-AND-ACT: Improving Planning of Agents for Long-Horizon Tasks](https://arxiv.org/pdf/2503.09572) (UC Berkeley) [Recent work separates high-level planning from low-level execution, enabling better balance between objectives and details. However, generating accurate plans remains difficult since LLMs are not inherently trained for this task. This paper generate good plans.]
 * [2503] [MPO: Boosting LLM Agents with Meta Plan Optimization](https://arxiv.org/pdf/2503.02682) (PKU) [Imroving planning]
 * [2502] [Reinforcement Learning for Long-Horizon Interactive LLM Agents](https://arxiv.org/pdf/2502.01600) (Apple) [propose AppWorld task other than WebShop]
