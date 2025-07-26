@@ -135,6 +135,9 @@ Multi-Turn Reinforcement Learning](https://github.com/RAGEN-AI/RAGEN/blob/main/R
 * ![OpenManus-RL Stars](https://img.shields.io/github/stars/OpenManus/OpenManus-RL) [OpenManus-RL](https://github.com/OpenManus/OpenManus-RL) (A live stream development of RL tunning for LLM agents)
 * ![MetaSpatial Stars](https://img.shields.io/github/stars/PzySeere/MetaSpatial) [MetaSpatial](https://github.com/PzySeere/MetaSpatial) (Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse)
 
+## Some twitter
+* [a summary of some practical insights and lessons](https://x.com/wyu_nd/status/1948515428235706883)
+
 ## Contributing
 
 * Feel free to contribute more papers or other any resources!
